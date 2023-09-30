@@ -1,0 +1,134 @@
+{
+      "PlayerID": 4314,
+      "Season": 2021,
+      "Played": 1,
+      "Started": 1,
+      "Week": 1,
+      "Opponent": "DAL",
+      "TeamHasPossession": false,
+      "HomeOrAway": null,
+      "TeamIsHome": true,
+      "Result": "W",
+      "HomeScore": 31,
+      "AwayScore": 29,
+      "Quarter": "F",
+      "QuarterDisplay": "F",
+      "IsGameOver": true,
+      "GameDate": "/Date(1631233200000)/",
+      "TimeRemaining": null,
+      "ScoreSummary": "F (W) 31 - 29 vs. DAL",
+      "PassingCompletions": 32,
+      "PassingAttempts": 50,
+      "PassingCompletionPercentage": 64,
+      "PassingYards": 379,
+      "PassingYardsPerAttempt": 7.6,
+      "PassingTouchdowns": 4,
+      "PassingInterceptions": 2,
+      "PassingRating": 97,
+      "RushingAttempts": 0,
+      "RushingYards": 0,
+      "RushingYardsPerAttempt": 0,
+      "RushingTouchdowns": 0,
+      "Receptions": 0,
+      "ReceivingTargets": 0,
+      "ReceivingYards": 0,
+      "ReceptionPercentage": 0,
+      "ReceivingTouchdowns": 0,
+      "ReceivingLong": 0,
+      "ReceivingYardsPerTarget": 0,
+      "ReceivingYardsPerReception": 0,
+      "Fumbles": 0,
+      "FumblesLost": 0,
+      "FieldGoalsMade": 0,
+      "FieldGoalsAttempted": 0,
+      "FieldGoalPercentage": 0,
+      "FieldGoalsLongestMade": 0,
+      "ExtraPointsMade": 0,
+      "ExtraPointsAttempted": 0,
+      "TacklesForLoss": 0,
+      "Sacks": 0,
+      "QuarterbackHits": 0,
+      "Interceptions": 0,
+      "FumblesRecovered": 0,
+      "Safeties": 0,
+      "DefensiveTouchdowns": 0,
+      "SpecialTeamsTouchdowns": 0,
+      "SoloTackles": 0,
+      "AssistedTackles": 0,
+      "SackYards": 0,
+      "PassesDefended": 0,
+      "FumblesForced": 0,
+      "FantasyPoints": 27.16,
+      "FantasyPointsPPR": 27.16,
+      "FantasyPointsFanDuel": 29.16,
+      "FantasyPointsYahoo": 29.16,
+      "FantasyPointsFantasyDraft": 32.16,
+      "FantasyPointsDraftKings": 32.16,
+      "FantasyPointsHalfPointPpr": 27.16,
+      "FantasyPointsSixPointPassTd": 35.16,
+      "FantasyPointsPerGame": 27.2,
+      "FantasyPointsPerGamePPR": 27.2,
+      "FantasyPointsPerGameFanDuel": 29.2,
+      "FantasyPointsPerGameYahoo": 29.2,
+      "FantasyPointsPerGameDraftKings": 32.2,
+      "FantasyPointsPerGameHalfPointPPR": 27.2,
+      "FantasyPointsPerGameSixPointPassTd": 35.2,
+      "FantasyPointsPerGameFantasyDraft": 32.2,
+      "PlayerUrlString": "/nfl/tom-brady-fantasy/4314",
+      "GameStatus": "",
+      "GameStatusClass": "",
+      "PointsAllowedByDefenseSpecialTeams": null,
+      "UsaTodayHeadshotNoBackgroundUrlSlug": "tom-brady-4314-6bb21da3",
+      "TotalTackles": 0,
+      "StatSummary": [
+        {
+          "Items": [
+            {
+              "StatValue": "32/50",
+              "StatTitle": ""
+            },
+            {
+              "StatValue": "379",
+              "StatTitle": "YDS"
+            },
+            {
+              "StatValue": "4",
+              "StatTitle": "TD"
+            },
+            {
+              "StatValue": "2",
+              "StatTitle": "INT"
+            }
+          ]
+        },
+        {
+          "Items": [
+            {
+              "StatValue": "QB RAT 97",
+              "StatTitle": ""
+            },
+            {
+              "StatValue": "64",
+              "StatTitle": "%"
+            },
+            {
+              "StatValue": "7.6",
+              "StatTitle": "YDS/ATT"
+            }
+          ]
+        }
+      ],
+      "Name": "Tom Brady",
+      "ShortName": "T. Brady",
+      "FirstName": "Tom",
+      "LastName": "Brady",
+      "FantasyPosition": "QB",
+      "Position": "QB",
+      "TeamUrlString": "/nfl/tampa-bay-buccaneers-depth-chart",
+      "Team": "TB",
+      "IsScrambled": false,
+      "Rank": 8,
+      "StaticRank": 0,
+      "PositionRank": null,
+      "IsFavorite": false
+    }
